@@ -1,0 +1,8 @@
+{
+  "name": "wbtabs1",
+  "app_id": "306e50fe",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
